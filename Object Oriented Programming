@@ -1,0 +1,19 @@
+Here's an example taken from the Scikit-learn website:
+
+from sklearn import svm
+X = [[0, 0], [1, 1]]
+y = [0, 1]
+clf = svm.SVC()
+clf.fit(X, y)  
+How does Scikit-learn train the SVM model? You don't need to know because the implementation is hidden with object-oriented programming
+
+procedural programming vs onject oriented programming.
+
+Every object has characteristics and actions.
+
+class represents an object group in python.
+object is a member of a class.
+method represents an action belonging to a class.
+attribute is a characteristic of a class?
+
+
